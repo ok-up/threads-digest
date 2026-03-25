@@ -1,0 +1,31 @@
+{
+  "$schema": "https://raw.githubusercontent.com/anthropics/claude-code/refs/heads/main/marketplace/marketplace.schema.json",
+  "name": "threads-digest",
+  "owner": {
+    "name": "ok-up"
+  },
+  "metadata": {
+    "description": "Read your Threads feed and create an AI-curated digest"
+  },
+  "plugins": [
+    {
+      "name": "threads-digest",
+      "source": "./",
+      "description": "Read your Threads feed and create an AI-curated digest. Uses Chrome CDP with anti-detection.",
+      "version": "1.0.0",
+      "author": {
+        "name": "ok-up"
+      },
+      "repository": "https://github.com/ok-up/threads-digest",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "threads",
+        "social-media",
+        "digest",
+        "scraper",
+        "cdp"
+      ]
+    }
+  ]
+}

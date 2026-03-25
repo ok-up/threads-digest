@@ -1,0 +1,11 @@
+{
+  "name": "threads-digest",
+  "description": "Read your Threads feed and create an AI-curated digest. Uses Chrome CDP with anti-detection.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ok-up",
+    "url": "https://github.com/ok-up"
+  },
+  "repository": "https://github.com/ok-up/threads-digest",
+  "license": "MIT"
+}
