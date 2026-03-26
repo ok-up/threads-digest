@@ -7,7 +7,7 @@
 - `scripts/threads/` — CDP client, feed parser, stealth, human simulation
 - `digests/` — output directory for raw JSON and markdown digests
 - `profile/` — Chrome profile with login session (gitignored)
-- `SKILL.md` — skill definition for Claude Code
+- `skills/threads-digest/SKILL.md` — skill definition for Claude Code
 
 ## Running Commands
 
